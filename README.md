@@ -4,7 +4,7 @@ A React application that integrates with the Reqres API to perform user manageme
 
 ## GitHub Repository
 
-The source code is available at: [https://github.com/yourusername/employwise-assignment](https://github.com/yourusername/employwise-assignment)
+The source code is available at: [https://github.com/yourusername/employwiseassignment](https://github.com/yourusername/employwiseassignment)
 
 ## Features
 
